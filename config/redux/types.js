@@ -1,0 +1,4 @@
+export const FETCH_STARTED = 'FETCH_STARTED';
+export const FETCH_ERROR = 'FETCH_ERROR';
+export const FETCH_PHOTOS = 'FETCH_PHOTOS';
+export const FETCH_POPULAR_PHOTOS = 'FETCH_POPULAR_PHOTOS';
